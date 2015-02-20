@@ -1,0 +1,3 @@
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGameContent\obj\x86\Debug\PlatformGameContent.contentprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGameContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,50 @@
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\PlatformGame.exe
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\PlatformGame.pdb
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\PlatformGame.exe
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\PlatformGame.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\CharMove.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\spritefont.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\CharATTACK 1.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\fillText.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\GroundText.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Airborne.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\CharMove.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\CharATTACK 1.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\fillText.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\GroundText.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Airborne.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\spritefont.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\PlatformGame.exe
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\PlatformGame.pdb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\PlatformGame.csprojResolveAssemblyReference.cache
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\PlatformGame.exe
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\PlatformGame.pdb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Platform.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Mob1.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Mob1ORIG.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Background1.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\fillText.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\GroundText.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Airborne.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Platform.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Mob1ORIG.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Mob1.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Background1.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\CharATTACK 1.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\CharMove.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\spritefont.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\PlatformGame.exe
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\PlatformGame.pdb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\PlatformGame.exe
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\obj\x86\Debug\PlatformGame.pdb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Rope.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\Rope.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\climbAni.xnb
+E:\Dropbox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\climbAni_Static.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\climbAni.xnb
+E:\aplications\DropBox\Dropbox\PlatformGame\PlatformGame\PlatformGame\bin\x86\Debug\Content\Textures\climbAni_Static.xnb
